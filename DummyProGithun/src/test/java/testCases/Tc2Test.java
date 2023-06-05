@@ -11,6 +11,9 @@ public class Tc2Test {
 		Reporter.log("Tc2 Passed",true);
 		Reporter.log("Tc2 data Updated",true);
 		
+		Reporter.log("Tc3 Passed",true);
+		Reporter.log("Tc55 data Updated",true);
+		
 	}
 	
 
