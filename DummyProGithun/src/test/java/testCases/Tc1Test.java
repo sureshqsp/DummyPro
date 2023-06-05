@@ -9,6 +9,7 @@ public class Tc1Test {
 	public void m1()
 	{
 		Reporter.log("Tc1 Passed",true);
+		Reporter.log("Tc1 updated by ATE 2");
 	}
 
 }
